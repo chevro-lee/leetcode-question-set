@@ -5,7 +5,7 @@ import java.util.Queue;
 
 /**
  * Author li.ling
- * Description 404.左叶子之和
+ * Description 404.左叶子之和 LL
  * Date 2021/6/12 15:19
  */
 public class Solution30 {
